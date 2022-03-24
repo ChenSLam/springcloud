@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-springcloud-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-springcloud-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-eureka-client-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-eureka-client-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-eureka-cluster-client-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-eureka-cluster-client-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-eureka-cluster-server-9100/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-eureka-cluster-server-9200/src/main/java" charset="UTF-8" />
+  </component>
+</project>
