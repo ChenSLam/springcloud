@@ -12,6 +12,12 @@
         <option value="$PROJECT_DIR$/03-eureka-cluster-server-9200/pom.xml" />
         <option value="$PROJECT_DIR$/03-eureka-cluster-client-provider/pom.xml" />
         <option value="$PROJECT_DIR$/03-eureka-cluster-client-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/04-eureka-server-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/04-eureka-client-ribbon-provider8081/pom.xml" />
+        <option value="$PROJECT_DIR$/04-eureka-client-ribbon-provider8082/pom.xml" />
+        <option value="$PROJECT_DIR$/04-eureka-client-ribbon-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/05-eureka-client-hystrix-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/05-eureka-client-hystrix-provider/pom.xml" />
       </list>
     </option>
   </component>
